@@ -1,2 +1,0 @@
-Hi Hello ,
-This is the new git doc
