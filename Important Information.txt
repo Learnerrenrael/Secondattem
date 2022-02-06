@@ -4,3 +4,7 @@ You can't see this branch.
 This is so sad.
 This is so bad.
 We are in the master branch.
+
+This is super cool.
+This is awesome.
+You are great.
