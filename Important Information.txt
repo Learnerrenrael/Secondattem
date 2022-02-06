@@ -1,3 +1,6 @@
 This file has important information on many things. Please keep it safe by not let letting it fall in the bad hands.
 This is branch b.
 You can't see this branch.
+This is so sad.
+This is so bad.
+We are in the master branch.
